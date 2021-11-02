@@ -1,4 +1,5 @@
-﻿#DDoSForHire.net List`n#Updated: $(Get-date)
+﻿#DDoSForHire.net List
+#Updated: 11/02/2021 15:44:49
 alcastress.ru
 anonboot.com
 astrostress.com
