@@ -1,6 +1,5 @@
-﻿
-#DDoSForHire.net List
-#Updated: 11/02/2021 15:30:28
+﻿#DDoSForHire.net List
+#Updated: 11/02/2021 15:31:39
 alcastress.ru
 anonboot.com
 astrostress.com
