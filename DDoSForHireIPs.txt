@@ -1,4 +1,4 @@
-﻿#DDoSForHire.net List
+#DDoSForHire.net List
 #Updated: 11/02/2021 15:24:17
 51.161.18.89
 104.26.15.14
