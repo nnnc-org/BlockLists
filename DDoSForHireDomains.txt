@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 11/05/2021 16:00:03
+#Updated: 11/06/2021 16:00:03
 alcastress.ru
 anonboot.com
 astrostress.com
@@ -22,6 +22,7 @@ defconpro.net
 deltastress.com
 divinitysecurity.co
 downed.rip
+eternalodyssey.club
 evil-stress.xyz
 flood.ws
 flystress.net
