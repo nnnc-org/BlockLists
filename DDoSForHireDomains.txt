@@ -1,12 +1,11 @@
 ﻿#DDoSForHire.net List
-#Updated: 12/21/2021 16:00:03
+#Updated: 12/22/2021 16:00:03
 anonboot.com
 astrostress.com
 asylumstresser.to
 booter.cc
 booter.pw
 booter.sx
-booter.tw
 booter.vip
 bootyou.net
 bossstresser.xyz
@@ -16,10 +15,11 @@ cryptostresser.com
 cyber-hub.pw
 cyber-hub.pw
 cyber-hub.pw
+cyber-hub.pw
+cyber-hub.pw
 cybervm.io
 darkstress.xyz
 databooter.to
-ddos.wtf
 defconpro.net
 deltastress.com
 downed.us
@@ -41,7 +41,6 @@ layer7-security.net
 lightstress.pw
 metastresser.com
 mythicalstress.net
-networkstress.com
 nightmarestresser.com
 nstresser.net
 orphicsecurityteam.com
@@ -71,7 +70,6 @@ unlisted.to
 venomstresser.com
 vortex-api.com
 vtoxicity.net
-wannabe1337.xyz
 webstress.net
 webstresser.link
 xbooter.pw
