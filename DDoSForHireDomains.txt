@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 12/23/2021 16:00:03
+#Updated: 12/24/2021 16:00:03
 anonboot.com
 astrostress.com
 asylumstresser.to
@@ -37,7 +37,6 @@ ipstress.in
 ipstresser.io
 ipstresser.wtf
 layer7-scripts.net
-layer7-security.net
 lightstress.pw
 metastresser.com
 mythicalstress.net
@@ -62,7 +61,6 @@ stresser.world
 stresser.zone
 stresservip.net
 stresslab.sx
-stress-net.xyz
 sunstresser.com
 ts3booter.net
 ultraboot.org
