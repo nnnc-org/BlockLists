@@ -1,8 +1,9 @@
 ﻿#DDoSForHire.net List
-#Updated: 12/25/2021 16:00:03
+#Updated: 12/26/2021 16:00:03
 anonboot.com
 astrostress.com
 asylumstresser.to
+blackstresser.io
 booter.cc
 booter.pw
 booter.sx
@@ -12,8 +13,6 @@ bossstresser.xyz
 brmstress.xyz
 chemistry-stress.com
 cryptostresser.com
-cyber-hub.pw
-cyber-hub.pw
 cyber-hub.pw
 cyber-hub.pw
 cybervm.io
@@ -41,6 +40,7 @@ lightstress.pw
 metastresser.com
 mythicalstress.net
 nightmarestresser.com
+nightmarestresser.com
 nstresser.net
 orphicsecurityteam.com
 osirisstresser.xyz
@@ -56,6 +56,7 @@ stresser.ai
 stresser.app
 stresser.gg
 stresser.is
+stresser.us
 stresser.us
 stresser.world
 stresser.zone
