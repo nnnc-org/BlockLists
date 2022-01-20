@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 01/19/2022 16:00:03
+#Updated: 01/20/2022 16:00:03
 anonboot.com
 astrostress.com
 asylumstresser.to
@@ -16,6 +16,7 @@ cybervm.io
 databooter.to
 defconpro.net
 deltastress.com
+downed.is
 downed.us
 downthem.to
 dragonstresser.com
