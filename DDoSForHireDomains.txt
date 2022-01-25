@@ -1,8 +1,7 @@
 ﻿#DDoSForHire.net List
-#Updated: 01/24/2022 16:00:04
+#Updated: 01/25/2022 16:00:03
 anonboot.com
 astro-hit.net
-astrostress.com
 asylumstresser.to
 blackstresser.io
 booter.cc
