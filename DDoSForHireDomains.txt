@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 02/13/2022 16:00:03
+#Updated: 02/14/2022 16:00:03
 anonboot.com
 antisec.tech
 astro-hit.net
@@ -69,6 +69,7 @@ stresser.us
 stresser.world
 stresser.zone
 stresservip.net
+stresserz.com
 stresslab.sx
 sunstresser.com
 ultraboot.org
