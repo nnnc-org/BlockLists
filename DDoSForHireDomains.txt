@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 03/03/2022 16:00:02
+#Updated: 03/04/2022 16:00:03
 anonboot.com
 antisec.tech
 astro-hit.net
@@ -77,7 +77,6 @@ stresslab.sx
 stresslab.sx
 sunstresser.com
 underflood.cf
-unlisted.to
 venomstresser.com
 vortex-api.com
 vtoxicity.net
