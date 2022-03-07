@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 03/06/2022 16:00:03
+#Updated: 03/07/2022 16:00:08
 anonboot.com
 antisec.tech
 astro-hit.net
@@ -15,6 +15,7 @@ bootyou.net
 chemistry-stress.com
 cyber-hub.pw
 cyber-hub.pw
+cyberstress.us
 cybervm.io
 databooter.to
 deltastress.com
@@ -42,11 +43,13 @@ insanitysecurity.com
 instant-down.net
 instant-stresser.com
 ipstress.in
+ipstress.vip
 ipstresser.io
 ipstresser.wtf
 ipstresser.xyz
 kingstress.me
 lightstress.pw
+marleystresser.com
 metastresser.com
 mythicalstress.net
 netstress.cc
@@ -54,6 +57,7 @@ nightmarestresser.com
 nightmarestresser.com
 orphicsecurityteam.com
 osirisstresser.xyz
+project-dxt.xyz
 putinstresser.me
 redstresser.cc
 royalstresser.com
