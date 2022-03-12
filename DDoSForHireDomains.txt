@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 03/11/2022 16:00:03
+#Updated: 03/12/2022 16:00:04
 anonboot.com
 antisec.tech
 astro-hit.net
@@ -12,6 +12,7 @@ booter.sx
 booter.vip
 bootersh.xyz
 bootyou.net
+buuter.cc
 chemistry-stress.com
 cyber-hub.pw
 cyber-hub.pw
