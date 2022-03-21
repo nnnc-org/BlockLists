@@ -1,11 +1,8 @@
 ﻿#DDoSForHire.net List
-#Updated: 03/20/2022 16:00:03
+#Updated: 03/21/2022 16:00:03
 anonboot.com
-antisec.tech
-astro-hit.net
-asylumstresser.to
 atrac.org
-blackstresser.io
+blackstress.io
 blackstresser.io
 booter.cc
 booter.sx
@@ -13,19 +10,16 @@ booter.vip
 bootersh.xyz
 bootyou.net
 buuter.cc
-chemistry-stress.com
 cyber-hub.pw
 cyber-hub.pw
 cyberstress.us
 cybervm.io
-databooter.to
 deltastress.com
 downed.is
 downed.us
 dragonstresser.com
 dreams-stresser.io
 elegance.wtf
-eternalodyssey.club
 evil-stress.xyz
 exotic-booter.com
 exotic-booter.com
@@ -35,24 +29,22 @@ flystress.net
 formonix.sh
 gaybooter.com
 getstress.net
-hellstress.com
 heydos.cc
 high-stress.com
 hub.leakz.org
 ice-booter.cf
 insanitysecurity.com
-instant-down.net
-instant-stresser.com
 ipcrash.us
 ipstress.in
 ipstress.vip
 ipstresser.io
 ipstresser.wtf
 ipstresser.xyz
+joker.sh
 kingstress.me
-lightstress.pw
 marleystresser.com
 metastresser.com
+mormonstress.net
 mythicalstress.net
 netstress.cc
 nightmarestresser.com
@@ -63,8 +55,6 @@ project-dxt.xyz
 putinstresser.me
 redstresser.cc
 securityhide.com
-sensestresser.xyz
-shawty.club
 silentstress.wtf
 storm-stress.com
 str3ssed.co
@@ -81,11 +71,9 @@ stresserz.com
 stresslab.sx
 stresslab.sx
 sunstresser.com
-underflood.cf
 venomstresser.com
 vortex-api.com
 vtoxicity.net
 webstresser.link
-weddos4you.xyz
 zdstresser.net
 zeus-net.pw
