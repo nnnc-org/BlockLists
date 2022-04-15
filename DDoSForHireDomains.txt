@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 04/14/2022 16:00:03
+#Updated: 04/15/2022 16:01:23
 anonboot.com
 blackstress.io
 blackstress.io
@@ -70,6 +70,7 @@ stresservip.net
 stresserz.com
 stresslab.sx
 stresslab.sx
+stressly.net
 sunstresser.com
 venomstresser.com
 vortex-api.com
