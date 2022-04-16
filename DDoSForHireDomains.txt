@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 04/15/2022 16:01:23
+#Updated: 04/16/2022 16:00:05
 anonboot.com
 blackstress.io
 blackstress.io
@@ -31,7 +31,6 @@ high-stress.com
 hub.leakz.org
 infinity-studios.icu
 insanitysecurity.com
-instant-stresser.com
 instant-stresser.com
 ipcrash.us
 ipstress.in
