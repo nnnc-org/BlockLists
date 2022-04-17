@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 04/16/2022 16:00:05
+#Updated: 04/17/2022 16:00:06
 anonboot.com
 blackstress.io
 blackstress.io
@@ -18,7 +18,7 @@ downed.is
 downed.us
 dragonstresser.com
 dreams-stresser.io
-elegance.wtf
+elegance.cfd
 evil-stress.xyz
 exotic-booter.com
 exotic-booter.com
@@ -62,6 +62,7 @@ stresser.ai
 stresser.app
 stresser.gg
 stresser.ovh
+stresser.so
 stresser.us
 stresser.us
 stresser.zone
