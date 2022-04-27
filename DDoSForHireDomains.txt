@@ -1,11 +1,10 @@
 ﻿#DDoSForHire.net List
-#Updated: 04/26/2022 16:00:05
+#Updated: 04/27/2022 16:00:03
 anonboot.com
 blackstress.io
 booter.cc
 booter.sx
 booter.vip
-bootersh.xyz
 bootyou.net
 buuter.cc
 cyber-hub.pw
@@ -24,6 +23,7 @@ evil-stress.xyz
 exotic-booter.com
 exotic-booter.com
 fast-stresser.com
+finstresser.net
 flystress.net
 flystress.net
 getstress.net
@@ -54,6 +54,7 @@ redstresser.cc
 securityhide.com
 silentstress.wtf
 speedstresser.com
+starstresser.xyz
 storm-stress.com
 str3ssed.co
 stress.st
