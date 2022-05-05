@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 05/04/2022 16:00:03
+#Updated: 05/05/2022 16:00:03
 anonboot.com
 blackstress.io
 blackstress.ru
@@ -62,6 +62,7 @@ stress.st
 stresser.ai
 stresser.ai
 stresser.app
+stresser.cat
 stresser.gg
 stresser.ovh
 stresser.so
