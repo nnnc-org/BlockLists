@@ -1,9 +1,10 @@
 ﻿#DDoSForHire.net List
-#Updated: 05/07/2022 16:00:04
+#Updated: 05/08/2022 16:00:04
 anonboot.com
 blackstress.io
 blackstress.ru
 booter.cc
+booter.life
 booter.sx
 booter.vip
 bootyou.net
@@ -47,6 +48,7 @@ mythicalstress.net
 netstress.cc
 network.rip
 nightmarestresser.com
+nuclearstress.cc
 orphicsecurityteam.com
 project-dxt.xyz
 quez.in
