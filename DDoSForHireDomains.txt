@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 05/23/2022 16:00:04
+#Updated: 05/24/2022 16:00:04
 anonboot.com
 blackstress.io
 blackstress.ru
@@ -42,6 +42,7 @@ layers.center
 mao-stress.xyz
 marleystresser.com
 metastresser.com
+moonstress.com
 mormonstress.net
 mythicalstress.net
 netstress.cc
@@ -81,5 +82,6 @@ synergy.do
 syntheticstress.xyz
 traumatyze.com
 venomstresser.com
+vstresser.us
 webstresser.link
 zdstresser.net
