@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 05/24/2022 16:00:04
+#Updated: 05/25/2022 16:00:04
 anonboot.com
 blackstress.io
 blackstress.ru
@@ -15,7 +15,6 @@ cyber-hub.pw
 cyberstress.us
 cybervm.io
 ddosnow.com
-deltastress.com
 downed.is
 downed.us
 dragonstresser.com
@@ -49,6 +48,7 @@ netstress.cc
 network.rip
 nightmarestresser.com
 nightmarestresser.com
+nkstresser.net
 nuclearstress.cc
 orphicsecurityteam.com
 project-dxt.xyz
