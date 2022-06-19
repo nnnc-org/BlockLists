@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 06/18/2022 16:00:11
+#Updated: 06/19/2022 16:00:03
 anonboot.com
 blackstress.io
 blackstress.ru
@@ -7,6 +7,7 @@ booter.cat
 booter.cc
 booter.sx
 booter.vip
+boot-his.mom
 bootyou.net
 buuter.cc
 cyber-hub.pw
