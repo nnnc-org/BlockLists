@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 06/23/2022 16:00:03
+#Updated: 06/24/2022 16:00:07
 anonboot.com
 blackstress.io
 blackstress.ru
@@ -26,11 +26,9 @@ elegance.cfd
 exotic-booter.com
 exotic-booter.com
 fast-stresser.com
-finstresser.net
 flystress.net
 heydos.cc
 hirestresser.com
-hub.leakz.org
 infinity-studios.icu
 insanitysecurity.com
 instant-stresser.com
@@ -62,7 +60,6 @@ securityhide.com
 silentstress.wtf
 spaso.network
 starstresser.xyz
-storm-stress.com
 str3ssed.co
 stress.st
 stresser.ai
