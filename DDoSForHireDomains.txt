@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 06/27/2022 16:00:04
+#Updated: 06/28/2022 16:00:03
 ackflood.is
 anonboot.com
 blackstress.io
@@ -21,6 +21,7 @@ downed.is
 dragonstresser.com
 dragonstresser.com
 dreams-stresser.io
+exo.rip
 exotic-booter.com
 exotic-booter.com
 flystress.net
