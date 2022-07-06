@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 07/05/2022 16:00:03
+#Updated: 07/06/2022 16:00:03
 ackflood.is
 anonboot.com
 blackstress.io
@@ -53,7 +53,7 @@ rebirthstresser.com
 redstresser.cc
 rocket-stress.com
 securityhide.com
-silentstress.wtf
+silentstress.net
 spaso.network
 str3ssed.co
 stress.st
