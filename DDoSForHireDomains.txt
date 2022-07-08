@@ -1,11 +1,10 @@
 ﻿#DDoSForHire.net List
-#Updated: 07/07/2022 16:00:03
+#Updated: 07/08/2022 16:00:03
 ackflood.is
 anonboot.com
 blackstress.io
 blackstress.ru
 booter.cc
-booter.life
 booter.sx
 booter.vip
 boot-his.mom
@@ -26,7 +25,7 @@ exotic-booter.com
 exotic-booter.com
 flystress.net
 heydos.cc
-hirestresser.com
+hirestresser.net
 infinity-studios.icu
 instant-stresser.com
 ipstress.vip
@@ -46,13 +45,14 @@ nightmarestresser.com
 nkstresser.net
 nuclearstress.cc
 orphicsecurityteam.com
-prostress.xyz
+prostress.pro
 putinstresser.me
 quez.in
 rebirthstresser.com
 redstresser.cc
+request-api.us
 rocket-stress.com
-securityhide.com
+securityhide.net
 silentstress.net
 spaso.network
 str3ssed.co
