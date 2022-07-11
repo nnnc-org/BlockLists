@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 07/10/2022 16:00:04
+#Updated: 07/11/2022 16:00:04
 ackflood.is
 anonboot.com
 blackstress.io
@@ -9,7 +9,6 @@ booter.sx
 booter.vip
 boot-his.mom
 bootyou.net
-buuter.cc
 catstresser.wtf
 cyber-hub.pw
 cyber-hub.pw
@@ -66,6 +65,7 @@ stresser.cloud
 stresser.gg
 stresser.so
 stresser.tech
+stresser.top
 stresser.us
 stresser.us
 stresser.zone
@@ -74,7 +74,6 @@ sunstresser.com
 synergy.do
 syntheticstress.xyz
 traumatyze.com
-venomstresser.com
 volitystress.vip
 vstresser.us
 webstresser.link
