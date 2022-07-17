@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 07/16/2022 16:00:03
+#Updated: 07/17/2022 16:00:03
 ackflood.is
 anonboot.com
 blackstress.ru
@@ -15,6 +15,7 @@ cyber-hub.pw
 cyberstress.us
 cybervm.io
 cystresser.com
+doom-stresser.pw
 downed.is
 dragonstresser.com
 dragonstresser.com
