@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 08/23/2022 16:00:03
+#Updated: 08/24/2022 16:00:03
 ackflood.is
 anonboot.com
 blackstresser.net
@@ -31,8 +31,10 @@ flystress.net
 heydos.cc
 high-stress.com
 hirestresser.net
+hkstresser.net
 infinity-studios.icu
 instant-stresser.com
+intelligence-api.vip
 ipstress.vip
 ipstresser.wtf
 ipstresser.xyz
@@ -58,7 +60,6 @@ quez.in
 rebirthstresser.com
 redstresser.cc
 rocket-stress.com
-securityhide.net
 silentstress.net
 spaso.network
 str3ssed.co
