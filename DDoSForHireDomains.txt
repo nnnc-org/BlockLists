@@ -1,7 +1,8 @@
 ﻿#DDoSForHire.net List
-#Updated: 09/03/2022 16:00:04
+#Updated: 09/04/2022 16:00:03
 ackflood.is
 anonboot.com
+atomic-stresser.xyz
 blackstresser.net
 bootcaat.fr
 booter.cc
@@ -51,6 +52,7 @@ mythicalstress.com
 netstress.cc
 nightmarestresser.com
 nightmarestresser.com
+nixstresser.xyz
 nkstresser.net
 nuclearstress.cc
 orbital-solutions.xyz
@@ -66,9 +68,6 @@ rocket-stress.com
 silentstress.net
 spaso.network
 str3ssed.co
-stresser.ai
-stresser.ai
-stresser.ai
 stresser.app
 stresser.cat
 stresser.gg
@@ -78,6 +77,9 @@ stresser.top
 stresser.us
 stresser.us
 stresser.zone
+stresserai.com
+stresserai.com
+stresserai.com
 stressid.club
 stresslab.sx
 sunstresser.com
