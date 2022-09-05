@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 09/04/2022 16:00:03
+#Updated: 09/05/2022 16:00:04
 ackflood.is
 anonboot.com
 atomic-stresser.xyz
@@ -20,7 +20,6 @@ cybervm.io
 cystresser.com
 destroyersv.best
 doom-stresser.pw
-downed.is
 dragonstresser.com
 dragonstresser.com
 dreams-stresser.io
@@ -69,13 +68,13 @@ silentstress.net
 spaso.network
 str3ssed.co
 stresser.app
+stresser.best
+stresser.best
 stresser.cat
 stresser.gg
 stresser.so
 stresser.tech
 stresser.top
-stresser.us
-stresser.us
 stresser.zone
 stresserai.com
 stresserai.com
