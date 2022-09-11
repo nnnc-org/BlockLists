@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 09/10/2022 16:00:03
+#Updated: 09/11/2022 16:00:03
 ackflood.is
 anonboot.com
 atomic-stresser.xyz
@@ -86,6 +86,7 @@ sunstresser.com
 sykesecurity.org
 syntheticstress.xyz
 traumatyze.com
+vapestress.cf
 volitystress.vip
 vstresser.us
 webstresser.us
