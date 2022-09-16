@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 09/15/2022 16:00:03
+#Updated: 09/16/2022 16:00:03
 ackflood.is
 anonboot.com
 atomic-stresser.xyz
@@ -37,6 +37,7 @@ instant-down.com
 intelligence-api.vip
 ipstress.org
 ipstress.vip
+ipstresser.one
 ipstresser.wtf
 ipstresser.xyz
 joker.sh
