@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 09/16/2022 16:00:03
+#Updated: 09/17/2022 16:00:03
 ackflood.is
 anonboot.com
 atomic-stresser.xyz
@@ -27,7 +27,6 @@ elegance.cfd
 exo.rip
 exotic-booter.com
 exotic-booter.com
-flystress.net
 heydos.cc
 high-stress.com
 hirestresser.net
