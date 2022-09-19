@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 09/18/2022 16:00:03
+#Updated: 09/19/2022 16:00:03
 ackflood.is
 anonboot.com
 atomic-stresser.xyz
@@ -13,6 +13,7 @@ boot-his.mom
 bootyou.net
 brrsecurity.org
 catstresser.wtf
+cryptobooter.org
 ctxsend.com
 cyber-hub.pw
 cyber-hub.pw
