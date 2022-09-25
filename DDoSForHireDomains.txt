@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 09/24/2022 16:00:03
+#Updated: 09/25/2022 16:00:03
 ackflood.is
 anonboot.com
 atomic-stresser.xyz
@@ -17,11 +17,11 @@ cryptobooter.org
 ctxsend.com
 cyber-hub.pw
 cyber-hub.pw
+cyber-hub.pw
 cyberstress.us
 cybervm.io
 destroyersv.best
 doom-stresser.pw
-dragonstresser.com
 dragonstresser.com
 dreams-stresser.io
 elegance.cfd
@@ -50,7 +50,7 @@ loudstresser.net
 lunarstress.com
 mao-stress.tech
 mcstorm.io
-metastresser.com
+metastresser.io
 mythicalstress.com
 netstress.cc
 nightmarestresser.com
