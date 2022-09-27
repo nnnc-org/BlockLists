@@ -1,9 +1,8 @@
 ﻿#DDoSForHire.net List
-#Updated: 09/26/2022 16:00:03
+#Updated: 09/27/2022 16:00:03
 ackflood.is
 anonboot.com
 atomic-stresser.xyz
-betterstresser.com
 blackstresser.net
 bootcaat.fr
 booter.cc
