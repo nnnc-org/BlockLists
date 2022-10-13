@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 10/12/2022 16:00:04
+#Updated: 10/13/2022 16:00:04
 ackflood.is
 anonboot.com
 atomic-stresser.xyz
@@ -39,6 +39,7 @@ joker.sh
 kaka-stresser.org
 kraysec.com
 loudstresser.net
+mao-stress.tech
 mcstorm.io
 metastresser.io
 mythicalstress.com
