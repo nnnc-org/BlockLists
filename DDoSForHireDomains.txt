@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 10/16/2022 16:00:03
+#Updated: 10/17/2022 16:00:03
 ackflood.is
 anonboot.com
 api-sky.xyz
@@ -54,8 +54,10 @@ ovhstresser.com
 pastestresser.buzz
 pluto.cx
 quantum-stresser.net
+quez.in
 rocketstress.net
 silentstress.net
+solostress.net
 str3ssed.co
 stresser.app
 stresser.best
