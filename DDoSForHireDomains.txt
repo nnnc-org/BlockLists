@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 10/19/2022 16:00:04
+#Updated: 10/20/2022 16:00:03
 ackflood.is
 anonboot.com
 api-sky.xyz
@@ -66,6 +66,7 @@ stresser.best
 stresser.best
 stresser.ga
 stresser.gg
+stresser.is
 stresser.one
 stresser.rip
 stresser.so
