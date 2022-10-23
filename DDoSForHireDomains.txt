@@ -1,5 +1,6 @@
 ﻿#DDoSForHire.net List
-#Updated: 10/22/2022 16:00:03
+#Updated: 10/23/2022 16:00:03
+rolexapi.xyz
 ackflood.is
 anonboot.com
 api-sky.xyz
