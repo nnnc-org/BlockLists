@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 10/27/2022 16:00:04
+#Updated: 10/28/2022 16:00:03
 rolexapi.xyz
 ackflood.is
 apinigger.buzz
@@ -51,12 +51,12 @@ nkstresser.net
 nulling.it
 orphicsecurityteam.com
 ovhstresser.com
-pastestresser.buzz
 pluto.cx
 quantum-stresser.net
 quez.in
 rocketstress.net
 silentstress.net
+slayerstress.com
 solostress.net
 str3ssed.co
 stressednet.xyz
@@ -81,7 +81,6 @@ stresslab.sx
 sunstresser.com
 tokenview.life
 volitystress.vip
-webstresser.us
 wrldsecurity.xyz
 zdstresser.net
 zdstresser.net
