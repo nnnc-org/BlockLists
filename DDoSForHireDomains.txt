@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 11/14/2022 16:00:04
+#Updated: 11/15/2022 16:00:04
 nigga.sbs
 rolexapi.xyz
 1981.re
@@ -60,8 +60,8 @@ ovhstresser.com
 pluto.cx
 quantum-stresser.net
 quez.in
-rocketstress.net
 scystress.xyz
+securityhide.net
 shock-stresser.com
 silentstress.net
 solostress.net
@@ -70,11 +70,13 @@ stressednet.xyz
 stresser.app
 stresser.best
 stresser.best
+stresser.city
 stresser.ga
 stresser.gg
 stresser.is
 stresser.one
 stresser.org
+stresser.ovh
 stresser.so
 stresser.tech
 stresser.top
