@@ -1,6 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 11/20/2022 16:00:03
-nigga.sbs
+#Updated: 11/21/2022 16:00:03
 rolexapi.xyz
 1981.re
 ackflood.is
@@ -32,7 +31,6 @@ heydos.cc
 high-stress.com
 hirestresser.net
 hkstresser.net
-hydra-stress.1337networks.org
 infinity-studios.icu
 inversecurity.org
 ipstress.org
