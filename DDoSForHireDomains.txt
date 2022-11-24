@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 11/23/2022 16:00:03
+#Updated: 11/24/2022 16:00:03
 rolexapi.xyz
 1981.re
 ackflood.is
@@ -35,7 +35,6 @@ infinity-studios.icu
 inversecurity.org
 ipstress.org
 ipstress.vip
-ipstresser.one
 ipstresser.us
 ipstresser.wtf
 ipstresser.xyz
@@ -87,6 +86,7 @@ stresshit.club
 stresslab.sx
 stressthem.to
 sunstresser.com
+t.me
 t.me
 t.me
 t.me
