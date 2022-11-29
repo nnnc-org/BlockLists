@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 11/28/2022 16:00:04
+#Updated: 11/29/2022 16:00:03
 rolexapi.xyz
 1981.re
 ackflood.is
@@ -14,7 +14,6 @@ booter.vip
 bootyou.net
 brrsecurity.org
 cloudleague.de
-cyber-hub.pw
 cyber-hub.pw
 cyber-hub.pw
 cyberstress.us
@@ -102,5 +101,6 @@ tokenview.life
 volitystress.vip
 warapi.net
 wrldsecurity.xyz
+zdstresser.net
 zdstresser.net
 zerostresser.com
