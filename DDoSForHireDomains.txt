@@ -1,5 +1,5 @@
 ﻿#DDoSForHire.net List
-#Updated: 12/01/2022 16:00:03
+#Updated: 12/02/2022 16:00:03
 rolexapi.xyz
 1981.re
 ackflood.is
@@ -57,6 +57,7 @@ orphicsecurityteam.com
 ovhstresser.com
 packetsto.me
 pluto.cx
+prostress.pro
 quantum-stresser.net
 quez.in
 scystress.xyz
