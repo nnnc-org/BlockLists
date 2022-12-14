@@ -1,6 +1,7 @@
 ﻿#DDoSForHire.net List
-#Updated: 12/13/2022 16:00:04
+#Updated: 12/14/2022 16:00:04
 rolexapi.xyz
+vstresser.com
 1981.re
 ackflood.is
 alya.dev
@@ -14,6 +15,7 @@ booter.vip
 bootyou.net
 brrsecurity.org
 cloudleague.de
+cryptostresser.com
 cyber-hub.pw
 cyber-hub.pw
 cyberstress.us
@@ -58,7 +60,7 @@ ovhstresser.com
 packetsto.me
 pluto.cx
 prostress.pro
-quantum-stresser.net
+quantum-stress.org
 quez.in
 rocket-stress.com
 scystress.xyz
@@ -67,17 +69,15 @@ shock-stresser.com
 silentstress.net
 solostress.net
 str3ssed.co
+stresse.app
 stressednet.xyz
-stresser.app
 stresser.best
 stresser.best
 stresser.city
 stresser.ga
-stresser.gg
 stresser.is
 stresser.la
 stresser.one
-stresser.org
 stresser.ovh
 stresser.so
 stresser.tech
